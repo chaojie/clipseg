@@ -10,7 +10,7 @@ requirements = [
     "torch",
     "torchvision",
     "opencv-python",
-    "CLIP @ git+https://github.com/openai/CLIP.git"
+    "CLIP @ git+https://mirror.ghproxy.com/https://github.com/openai/CLIP.git"
 ]
 
 setup(
